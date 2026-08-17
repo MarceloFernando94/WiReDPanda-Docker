@@ -1,1 +1,1 @@
-# WiReDPanda-Docker
+# wiredpanda-docker
